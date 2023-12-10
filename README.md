@@ -1,21 +1,21 @@
 <p align="center">
-  <h3 align="center">Heya 👋, I'm Hashir</h3>
+  <h3 align="center">Heya 👋, I'm Reetesh</h3>
 </p>
 <p align="center">
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://reeteshyadav.github.io">About Me</a>
     ·
-    <a href="mailto:hashirshoaeb@gmail.com">Email</a>
+    <a href="mailto:reeteshy15@gmail.com">Email</a>
     ·
-    <a href="https://linkedin.com/in/hashirshoaeb">LinkedIn</a>
+    <a href="https://linkedin.com/in/reeteshy15">LinkedIn</a>
     ·
-    <a href="https://twitter.com/hashirshoaeb">Twitter</a>
+    <a href="https://twitter.com/reeteshy15">Twitter</a>
 </p>
 <p align="center">
-  <h4 align="center">Computer Engineer from Lahore, Pakistan</h4>
+  <h4 align="center">Computer Engineer from Noida, India</h4>
 </p>
 
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=hashirshoaeb&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=hashirshoaeb&color=blue&style=flat-square" alt="reeteshy15 profile views" />
 </p>
 
 <hr/>
