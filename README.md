@@ -2,7 +2,7 @@
   <h3 align="center">Hey 👋, I'm Reetesh</h3>
 </p>
 <p align="center">
-    <a href="https://reeteshyadav.github.io">About Me</a>
+    <a href="https://reeteshyadav.netlify.app">About Me</a>
     ·
     <a href="mailto:reeteshy15@gmail.com">Email</a>
     ·
