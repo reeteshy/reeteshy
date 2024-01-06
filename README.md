@@ -11,7 +11,7 @@
     <a href="https://twitter.com/reeteshy15">Twitter</a>
 </p>
 <p align="center">
-  <h4 align="center">Computer Engineer from Noida, India</h4>
+  <h4 align="center">A passionate Senior Web Developer from Noida, India</h4>
 </p>
 
 <hr/>
