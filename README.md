@@ -22,32 +22,29 @@
 
 I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
 
-- 🔭 I’m currently working on **[QuranTalk App](https://www.qurantalk.app/)**.
-- 🌱 I’m currently learning **Software Design Patterns**.
-- 💬 Ask me about **Dart, Flutter, Swift, git**.
-- 📫 How to reach me: [@hashirshoaeb](https://twitter.com/hashirshoaeb)
+- 🔭 I’m currently working on **[CRM]**.
+- 🌱 I’m currently working as **Software Doveloper**.
+- 💬 Ask me about **React, Javascript, Redux, Typescript, Node**.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: A coder who doesn't like coffee.
-<!-- - 🌱 I’m currently reading book **BUILDING MOBILE APPS AT SCALE** by Gergely Orosz. -->
-<!-- - 🤔 I’m looking for help with **UI/UX of [StarBook App](https://github.com/hashirshoaeb/star_book)**. -->
+- ⚡ Fun fact: A coder who likes coffee.
+- 📫 How to reach me: [@reeteshy](mailto:reeteshy15@gmail.com)
 
-### Projects
+### >Languages and Tools:
 #### Flutter & Dart 
-[**Starbook**](https://github.com/hashirshoaeb/star_book) <br />A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.
-<br />
 
-[**QuranTalk**](https://github.com/qurantalk) <br />An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.
-<br />
+
+<h3 align="left"</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 #### Swift & iOS
 [**VIP Architecture Example**](https://github.com/hashirshoaeb/vip) <br />A simple swift example code based on VIP architecture.
 <br />
 
 #### Reactjs & Nextjs
-[**Home**](https://github.com/hashirshoaeb/home)<br />Portfolio website template.
+[**Home**](https://github.com/reeteshy/reeteshy)<br />Portfolio website template.
 <br />
 
-[**Portfolio**](https://github.com/hashirshoaeb/portfolio) <br />A static website/portfolio template built for freelancers / indie developers, to showcase recent projects and services.
+[**Portfolio**](https://reeteshyadav.netlify.app) <br />A static website/portfolio template built for freelancers developers, to showcase recent projects and services.
 <br />
 
 <hr/>
@@ -55,8 +52,8 @@ I'm most passionate about friendly software design 📲, solid architecture 👷
 <div align="center"> 
 <h3 align="center">Let's connect</h3>
 
-[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb)
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)
+[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/reeteshy15?label=Follow%20me)](https://twitter.com/reeteshy15)
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/reetesh-yadav-developer)
 
 </div>
 
@@ -66,3 +63,4 @@ I'm most passionate about friendly software design 📲, solid architecture 👷
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
+g
