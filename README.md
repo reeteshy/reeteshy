@@ -14,10 +14,6 @@
   <h4 align="center">Computer Engineer from Noida, India</h4>
 </p>
 
-<p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=hashirshoaeb&color=blue&style=flat-square" alt="reeteshy15 profile views" />
-</p>
-
 <hr/>
 
 I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
